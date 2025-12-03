@@ -1,4 +1,6 @@
 # git.demo
+
 This is my first repository.
 <br>
-Author - Ayesha Saleem
+Author - Ayesha Saleem (cmd)
+
